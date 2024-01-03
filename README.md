@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeeBee8
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning data science with machine learning
 - 💞️ I’m looking to collaborate on projects for non-profit organizations
 - 📫 You can reach me at csbrockway602@gmail.com
 
