@@ -1,4 +1,9 @@
-- 👋 Hi I am @SeeBee8 otherwise known as Christina B
-- 👀 I love animals, science, sociology, reading, writing, and so much more.
-- 💞️ I would love to collaborate on projects for non-profit organizations
-- 📫 You can reach me at csbrockway602@gmail.com
+👋 Hi there! I'm passionate about data science, animals, and the thrill of learning new things.
+
+🔍 I love uncovering patterns and insights in data to drive impactful decisions.
+
+🐾 I'm dedicated to animal welfare and exploring how data science can improve the lives of animals.
+
+📚 Always excited to learn and grow, whether it's mastering a new programming language or diving into the latest research.
+
+🚀 Let's connect and collaborate on innovative projects!
