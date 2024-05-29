@@ -1,4 +1,4 @@
 - 👋 Hi I am @SeeBee8 otherwise known as Christina B
-- 👀 I have so many interests.  I love animals, science, sociology, reading, writing, and so much more.
+- 👀 I love animals, science, sociology, reading, writing, and so much more.
 - 💞️ I would love to collaborate on projects for non-profit organizations
 - 📫 You can reach me at csbrockway602@gmail.com
