@@ -2,7 +2,7 @@
 
 🔍 I love uncovering patterns and insights in data to drive impactful decisions.
 
-🐾 I'm dedicated to animal welfare and exploring how data science can improve the lives of animals.
+🐾 I'm dedicated to animal and child welfare and exploring how data science can improve the lives of animals and children.
 
 📚 Always excited to learn and grow, whether it's mastering a new programming language or diving into the latest research.
 
