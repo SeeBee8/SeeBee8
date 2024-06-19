@@ -1,4 +1,4 @@
-👋 Hi there! I'm passionate about data science, animals, and the thrill of learning new things.
+👋 Hi there! I'm passionate about data science, animals, and learning new things.
 
 🔍 I love uncovering patterns and insights in data to drive impactful decisions.
 
